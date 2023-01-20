@@ -2,11 +2,7 @@
 
 1. OBJETIVOS
 
-_Estudiar y analizar el uso y aplicación de los capacitores
-
-_Revisar los conceptos y trabajos de las ondas sinusoidales
-
-_Realizar ejercicios y análisis de frecuencias y periodos
+Estudiar y analizar el uso y aplicación de los capacitores madiante la revisión de los conceptos y trabajos de las ondas sinusoidales
 
 2. MARCO TEÓRICO
 
@@ -58,6 +54,6 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 
 5.Conclusiones
 
-Realizando este informe se pudo tener presente los temas proporcionados por el libro de Floyd en el capitulo 11 y 12 en el que se topan temas ya más profundos y teóricos en la materia de fundamentos de circuitos electronicos. Fue importante para poder realizar este circuito el hecho de aplicar los conocimientos adquiridos en clase para poder trabajar con ondas sinusoidales, frecuencias, periodos y capacitores.
+Por medio de este informe se pudo tener presente los temas proporcionados por el libro de Floyd en el capitulo 11 y 12 en el que se topan temas ya más profundos y teóricos. 
 
 6.Bibliografía _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
