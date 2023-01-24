@@ -56,4 +56,6 @@ Estudiar y analizar el uso y aplicación de los capacitores madiante la revisió
 
 Por medio de este informe se pudo tener presente los temas proporcionados por el libro de Floyd en el capitulo 11 y 12 en el que se topan temas ya más profundos y teóricos. 
 
-6.Bibliografía _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
+6.Bibliografía 
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
